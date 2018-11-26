@@ -1,0 +1,8 @@
+09:33:11.020 [main] INFO  resources.base - Restricted User
+16:43:43.435 [main] INFO  resources.base - Non Restricted User
+16:43:55.065 [main] INFO  resources.base - Restricted User
+16:45:14.609 [main] INFO  resources.base - Non Restricted User
+16:45:23.062 [main] INFO  resources.base - Restricted User
+18:16:34.283 [main] INFO  resources.base - Driver is initialised
+18:16:41.569 [main] INFO  resources.base - Navigate to Home page
+18:16:41.679 [main] INFO  resources.base - Successfully validated text message
